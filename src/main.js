@@ -6,6 +6,8 @@ import router from './router'
 import fastClick from 'fastclick'
 import './assets/sytles/reset.css'
 import './assets/sytles/border.css'
+import './assets/sytles/iconfont.css'
+
 Vue.config.productionTip = false
 fastClick.attach(document.body)
 /* eslint-disable no-new */
